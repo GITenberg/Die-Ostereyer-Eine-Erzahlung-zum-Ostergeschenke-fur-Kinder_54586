@@ -1,5 +1,8 @@
 _repo: Die-Ostereyer-Eine-Erzahlung-zum-Ostergeschenke-fur-Kinder_54586
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54586-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Schmid, Christoph von
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '5355'
     url: http://www.gutenberg.org/2009/agents/5355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54586#Die-Ostereyer-Eine-Erzahlung-zum-Ostergeschenke-fur-Kinder
 gutenberg_issued: '2017-04-21'
 gutenberg_type: Text
 identifiers:
